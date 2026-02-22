@@ -8,5 +8,5 @@ End-to-end ML credit risk prediction and automated loan approval system using XG
 
 ---
 
-## CRMS (Climate Risk Management & Scenario Analysis) *UPCOMING*
+## CRMS (Climate Risk Management & Scenario Analysis) [UPCOMING]()
 Sector-based credit risk stress testing under climate scenarios using multi-model ML framework for forward-looking risk assessment.
